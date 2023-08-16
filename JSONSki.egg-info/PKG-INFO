@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: JSONSki
+Version: 1.0.1
+Summary: Python binding port for JSONSki
+Home-page: https://github.com/your_username/your_repository
+Author: AutomataLab
+Author-email: zhijia@cs.ucr.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: LICENSE
+
 ![GitHub](https://img.shields.io/github/license/AutomataLab/JSONSki_nodejs)
 ![Static Badge](https://img.shields.io/badge/code_size-236.9%20kB-blue)
 ![](https://img.shields.io/badge/linux-macos-green)
@@ -8,8 +22,8 @@ JSONSki_python is the Python binding port for JSONSki
 JSONSki is **a streaming JSONPath processor** with **fast-forward** functionality. During the streaming, it can automatically fast-forward over certain JSON substructures that are irrelavent to the query evaluation, without parsing them in detail. To make the fast-forward efficient, JSONSki features a highly bit-parallel solution that intensively utilizes bitwise and SIMD operations that are prevelent on modern CPUs to implement the fast-forward APIs. 
 
 
-## PIP Package
-You can download the PIP package from here - https://pypi.org/project/JSONSki/
+### Github
+You can check out the github from here - https://github.com/AutomataLab/JSONSki_python
 
 
 ## Installation
@@ -149,3 +163,10 @@ print("Elapsed default_python_json time:", elapsed_time, "seconds")
 ## Performance
 
 ![image](https://i.imgur.com/DNGbm8w.png)
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/CMakeFiles/jsonski.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/CMakeFiles/worker1.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/CMakeFiles/worker2.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/CMakeFiles/worker3.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/CMakeFiles/edit_cache.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/CMakeFiles/rebuild_cache.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/pybind11/CMakeFiles/edit_cache.dir
+/Users/work/Desktop/JSONSki/build/temp.macosx-10.9-universal2-3.9/jsonski/pybind11/CMakeFiles/rebuild_cache.dir
